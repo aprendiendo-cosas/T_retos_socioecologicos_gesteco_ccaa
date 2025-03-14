@@ -1,3 +1,4 @@
-# Build folder and log file
-build/
-build.log
+/preparacion
+/releases
+/videos_sesiones
+.DS_Store
