@@ -59,7 +59,31 @@ Esta herramienta es, básicamente, una especie de pizarra de superficie infinita
 
 ## Metodología propuesta para abordar el reto 
 
-Seguiremos una metodología denominada "complex problem solving". 
+Seguiremos una metodología denominada "complex problem solving" (CPS). Esta técnica comenzó a desarrollarse en Alemania en la década de 1970. Se desarrolló como un intento de abordar problemas que no podían resolverle con aproximaciones lineales tradicionales. El CPS implica tener en cuenta la complejidad de los sistemas y la importancia de la interrelación entre sus componentes. También asume que el sistema cambia tanto su estructura como su funcionamiento en el tiempo y en el espacio. Este comportamiento no lineal se debe a la multitud de elementos del sistema que están interactuando entre sí y que generan propiedades emergentes complejas. La consecuencia de esto a escala de sistema es que hay multitud de retroalimentaciones y que la incertidumbre es muy alta en todos los procesos del sistema y del problema a abordar.
+
+En la actualidad el CPS se aplica fundamentalmente en el ámbito empresarial y de marqueting. Sin embargo, poco a poco se empieza a aplicar a cuestiones ambientales. Como se trata de un método abierto, no contiene unas etapas definidas de manera muy rígida. Además, como este es el primer curso en el que hacemos este ejercicio, no disponemos aún de un método cerrado. Aplicaremos los mismos consejos que hemos visto en clase para "baila" con los sistemas complejos. Es decir, también bailaremos con la metodología para abordar los retos asignados. 
+
+A continuación se irán mostrando las fases del trabajo que vamos completando. Por ahora verás solo una lista y una brevísima descripción de cada fase. Pero conforme vayamos avanzando, cada fase estará enlazada con un guión específico en el que se describirá con detalle lo que haremos. Cada semana aproximadamente completaremos una fase.
+
+### Reconocimiento y contextualización del problema
+Esta primera etapa implica identificar adecuadamente la naturaleza compleja del problema a abordar. Esto implica reconocer la multiplicidad de perspectivas, la ausencia de una solución única, la "movilidad" del objetivo a alcanzar y las relaciones con otros problemas y sistemas. 
+
+### Identificación de actores involucrados y de sus objetivos-necesidades
+El segundo paso implica desarrollar una comprensión profunda de las partes interesadas que estén involucradas en el problema o que puedan verse afectadas por las soluciones propuestas. Esto incluye a comunidades locales, empresas, organizaciones, gobiernos, etc. Además de identificarlos, es importante caracterizar cuáles pueden ser su objetivos y sus necesidades, así como sus discursos públicos (externos) y privados (internos) sobre el problema en cuestión.
+
+### Descomposición funcional en otros problemas mas manejables
+
+### Análisis de interdependencias
+
+### Análisis del contexto legistlativo y de gestión
+
+### Identificación de propiedades dinámicas y ciclos adaptativos
+
+### Desarrollo y evaluación de escenarios plausibles
+
+### Propuestas para lograr el objetivo deseado
+
+
 
 
 
