@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Se tarda aproximadamente 2 horas en asimilar el contenido mostrado en este guión.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/2024_2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/portada.png)
 
 
 
@@ -22,10 +22,57 @@ Esta tarea se corresponde con la actividad a trabajar durante las prácticas de 
 + Mejorar las habilidades de creación de contenido multimedia.
 + Mejorar las habilidades de expresión oral y escrita. 
 
+Este guión contiene las instrucciones que los estudiantes individuales y los grupos deberán de seguir para completar la asignación. El contenido del guión evolucionará a lo largo de la asignatura. Se irán incorporando elementos nuevos relacionados con el método que usaremos para abordar el reto socioecológico en cuestión.
 
 
-## Contenidos
-Este guión contiene las instrucciones que los estudiantes y grupos deberán de seguir para completar la asignación. 
+## Herramientas digitales a utilizar
+Los estudiantes que trabajen en grupo recibirán instrucciones más detalladas cada semana en los Teams correspondientes. En cualquier caso, propongo que usemos las siguientes herramientas para esta asignación:
+
+### Microsoft Teams
+Ya lo conocemos bien. No es la mejor herramienta del mundo, pero es la que nos ofrece la universidad. Usaremos Teams para comunicarnos entre los miembros de cada equipo. También pondremos en el equipo toda la información relevante que se vaya recopilando (bibiografía) y creando (textos, imágenes, mapas, etc.) durante la actividad. Cada equipo deberá tener un nombre con la siguiente estructura: [Letra asignada al equipo]_[nombre corto del tema].
+
+Para subir información digital al equipo basta con hacer click en la pestaña "archivos" que hay arriba a la derecha del nombre del equipo. Ahí se pueden soltar todas las carpetas y archivos que vayáis usando. Al subir archivos a esta parte, se sincronizan con la nube. Para que estos archivos también estén disponibles en el ordenador de cada miembro del equipo, basta con tener instalado OneDrive y con darle al botón "sincronizar" que aparece en la segunda barra de opciones dentro de "archivos". 
+
+Me comunicaré con vosotros a través de esta herramienta. También vosotros podéis trasladarme dudas usando esta aplicación.
+
+
+
+### Asistente IA
+
+Es muy recomendable que cada equipo tenga un asistente IA personalizado que ayude a abordar el reto asignado. No basta con usar una IA genérica como ChatGPT o Perplexity. Es necesario incorporar al modelo de lenguaje una serie de fuentes de datos que puedan usarase como base de conocimiento específica del tema con el que estamos trabajando. Para hacer esto es posible usar los llamados GPTs de ChatGPT o también una IA llamada Google Notebook LM. La primera opción requiere tener una licencia de pago, así que, os sugiero que uséis la segunda. Para ello debéis dar los siguientes pasos:
+
+- Acceder a esta web: https://notebooklm.google.com/ Solo tiene que hacerlo un miembro del grupo.
+- Si es la primera vez que entráis, os pedirá vuestro usuario de Gmail. Introducid los datos que pide.
+- Una vez dentro nos da la opción de crear un nuevo cuaderno (opción "crear")
+- Un cuaderno es una especie de sistema experto que se alimenta no solo de la inteligencia artificial propia de Google (Gemini), sino también del contenido de hasta 50 archivos de diferente tipo (textos en pdf y audios). Al subir la información que queramos, el sistema puede responder de manera más eficiente porque se enfoca en el contenido que le hemos dado. También es posible subir enlaces a webs, vídeos de youtube, etc. 
+- Al crear el cuaderno el sistema nos pide directamente las fuentes que vamos a usar. Podemos añadir fuentes en cualquier paso del proceso. Es decir, si ponemos en marcha el cuaderno y días después damos con otra fuente relevante, es posible subirla sin problema. 
+- Una vez subidas las fuentes, podemos empezar a conversar con la IA usando prompts bien elaborados tal y como vimos el cuatrimestre pasado en ecología. Las respuestas que da Notebook LM pueden almacenarse como notas dentro del sistema. Esto es especialmente útil para "recordar" las cuestiones que nos resultan interesantes. 
+- Cuando tengáis configurado el Notebook es importante que lo compartáis conmigo. Para ello basta con darle al botón de compartir (botón con tres puntos unidos por líneas arriba a la derecha) y poner esta dirección de correo: fjbonet@gmail.com . De esta forma yo veré cómo evoluciona y cómo usáis vuestro asistente personalizado.
+
+
+
+### Miro 
+
+Esta herramienta es, básicamente, una especie de pizarra de superficie infinita en la que se pueden representar una gran cantidad de tipos de objetos diferentes. Desde notas hasta diagramas de flujo, imágenes, etc. La versión gratuita puede descargarse [aquí](https://miro.com/signup/) aunque también se puede acceder a través del navegador. Recomiendo que cada equipo tenga un panel en Miro para ir poniendo allí ideas, esquemas o el flujo de trabajo que sigáis para abordar vuestro reto. Si os animáis a usarlo, por favor, compartidlo conmigo (fjbonet@gmail.com).
+
+
+
+## Metodología propuesta para abordar el reto 
+
+Seguiremos una metodología denominada "complex problem solving". 
+
+
+
+
+
+
+
+## Forma de entrega
+
+## Criterios de calificación (rúbrica)
+
+
+
 
 
 
