@@ -4,7 +4,7 @@
 > + **_Versión_**: 2024-2025
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Se tarda aproximadamente 2 horas en asimilar el contenido mostrado en este guión.
+> + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea que dura todo el cuatrimestre.
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/portada.png)
 
@@ -25,8 +25,12 @@ Esta tarea se corresponde con la actividad a trabajar durante las prácticas de 
 Este guión contiene las instrucciones que los estudiantes individuales y los grupos deberán de seguir para completar la asignación. El contenido del guión evolucionará a lo largo de la asignatura. Se irán incorporando elementos nuevos relacionados con el método que usaremos para abordar el reto socioecológico en cuestión.
 
 
+
+
 ## Herramientas digitales a utilizar
 Los estudiantes que trabajen en grupo recibirán instrucciones más detalladas cada semana en los Teams correspondientes. En cualquier caso, propongo que usemos las siguientes herramientas para esta asignación:
+
+
 
 ### Microsoft Teams
 Ya lo conocemos bien. No es la mejor herramienta del mundo, pero es la que nos ofrece la universidad. Usaremos Teams para comunicarnos entre los miembros de cada equipo. También pondremos en el equipo toda la información relevante que se vaya recopilando (bibiografía) y creando (textos, imágenes, mapas, etc.) durante la actividad. Cada equipo deberá tener un nombre con la siguiente estructura: [Letra asignada al equipo]_[nombre corto del tema].
@@ -73,17 +77,27 @@ El segundo paso implica desarrollar una comprensión profunda de las partes inte
 
 ### Descomposición funcional en otros problemas mas manejables
 
+Esta estapa implica tratar de descomponer el problema complejo en otros que puedan ser más sencillos de abordar. Tiene sentido, por ejemplo, identificar las necesidades científico-técnicas del problema complejo. Estas suelen ser más fácilmente abordables.
+
 ### Análisis de interdependencias
+
+Conocer las relaciones de interdependencia entre actores y elementos clave del sistema complejo es fundamental para abordar los retos socioecológicos. Para hacer este análisis se pueden hacer mapas conceptuales que permitan visualizar las conexiones entre componentes sociales y ambientales. Esto permite identificar las relaciones clave y los "lugares" del sistema en los que las intervenciones pueden tener mayor impacto.
 
 ### Análisis del contexto legistlativo y de gestión
 
+Esta etapa es fundamental porque nos permite conocer el contexto legislativo que afecta al reto socioecológico que estamos abordando. No se trata de hacer una descripción exhaustiva de todas las disposiciones legales que afectan a nuestro reto, sino únicamente identificar las más relevantes. 
+
 ### Identificación de propiedades dinámicas y ciclos adaptativos
+
+Esta fase implica explicar el dinamismo del reto socioecológico en cuestión. Se trata de analizar las propiedades dinámicas del mismo evaluando en qué medida los elementos estructurales y funcionales identificados anteriormente han ido cambiando a lo largo del tiempo. Aquí es importante tener en cuenta el concepto de anarquía que ya vimos en clase. Este análisis nos dará información clave para identificar posibles escenarios de futuro para el sistema.
 
 ### Desarrollo y evaluación de escenarios plausibles
 
+El dinamismo anterior y la relación con el cambio global se pueden plasmar en la construcción de distintos escenarios que nos ayuden a imaginar futuros posibles para el sistema analizado. Estos escenarios se harán realidad o no en función de las condiciones de contexto (legislación, condiciones internas, etc.) y de las actuaciones realizadas.
+
 ### Propuestas para lograr el objetivo deseado
 
-
+Tras identificar el o los escenarios que se consideran más plausibles, se definirán actuaciones que permitan lograr el objetivo en cuestión. Estas actuaciones deberán tener en cuenta cuestiones científico-técnicas (qué tipo de acciones realizar) y de goberanza (qué actor y a qué escala se realizan las actuaciones)
 
 
 
@@ -93,11 +107,27 @@ El segundo paso implica desarrollar una comprensión profunda de las partes inte
 
 ## Forma de entrega
 
+Esta sección se concretará más en el futuro. Por ahora debes saber lo siguiente:
+
+- Cada grupo o individuo deberá entregar un producto tangible en el que se muestren resultados relacionados con los pasos descritos en las secciones anteriores. La forma de ese producto queda a vuestra elección. Por ejemplo, puede ser un texto, una web, un vídeo, un juego de mesa. Lo importante es que el producto presentado se alinee con los objetivos de la tarea y recoja elementos de las fases anteriormente descritas.
+- Además, los grupos tendrán que hacer una presentación oral de sus resultados. Eso se hará en una de las dos siguientes modalidades:
+  - Organizaremos una jornada en el aulario de Rabanales en la que cada grupo presentará sus resultados a las personas que vayan pasando por allí. Pondremos mesas y pantallas para que los estudiantes hagan la presentación de su proyecto. Cada asistente realizará una valoración del trabajo realizado. Estoy trabajando para que los ganadores tengan un premio.
+  - También organizaremos una o dos jornadas con institutos de Córdoba para que los grupos presenten sus trabajos allí.
+
+
+
+<!-- Esto no se verá al renderizar -->
+
 ## Criterios de calificación (rúbrica)
 
+Esta sección se concretará más en el futuro. Por ahora debes de saber lo siguiente:
+
+- Para los grupos se tendrá en cuenta el dinamismo del trabajo en el Teams.
+- Cada miembro del equipo recibirá una calificación independiente, ponderada seguramente mediante una encuesta de autoevaluación.
 
 
 
+<!-- Fin del comentario -->
 
 
 ****
