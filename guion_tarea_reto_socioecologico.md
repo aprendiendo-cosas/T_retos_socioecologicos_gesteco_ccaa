@@ -69,7 +69,7 @@ En la actualidad el CPS se aplica fundamentalmente en el ámbito empresarial y d
 
 A continuación se irán mostrando las fases del trabajo que vamos completando. Por ahora verás solo una lista y una brevísima descripción de cada fase. Pero conforme vayamos avanzando, cada fase estará enlazada con un guión específico en el que se describirá con detalle lo que haremos. Cada semana aproximadamente completaremos una fase.
 
-### Reconocimiento y contextualización del problema
+### [Reconocimiento y contextualización del problema](https://raw.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/main/guion_reconocimiento_reto.html)
 Esta primera etapa implica identificar adecuadamente la naturaleza compleja del problema a abordar. Esto implica reconocer la multiplicidad de perspectivas, la ausencia de una solución única, la "movilidad" del objetivo a alcanzar y las relaciones con otros problemas y sistemas. 
 
 ### Identificación de actores involucrados y de sus objetivos-necesidades
