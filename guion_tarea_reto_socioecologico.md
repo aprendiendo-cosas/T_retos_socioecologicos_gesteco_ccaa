@@ -72,7 +72,7 @@ A continuación se irán mostrando las fases del trabajo que vamos completando. 
 ### [Reconocimiento y contextualización del problema](https://raw.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/main/guion_reconocimiento_reto.html)
 Esta primera etapa implica identificar adecuadamente la naturaleza compleja del problema a abordar. Esto implica reconocer la multiplicidad de perspectivas, la ausencia de una solución única, la "movilidad" del objetivo a alcanzar y las relaciones con otros problemas y sistemas. 
 
-### Identificación de actores involucrados y de sus objetivos-necesidades
+### [Identificación de actores involucrados y de sus objetivos-necesidades](https://raw.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/main/guion_actores_reto.html)
 El segundo paso implica desarrollar una comprensión profunda de las partes interesadas que estén involucradas en el problema o que puedan verse afectadas por las soluciones propuestas. Esto incluye a comunidades locales, empresas, organizaciones, gobiernos, etc. Además de identificarlos, es importante caracterizar cuáles pueden ser su objetivos y sus necesidades, así como sus discursos públicos (externos) y privados (internos) sobre el problema en cuestión.
 
 ### Descomposición funcional en otros problemas mas manejables
