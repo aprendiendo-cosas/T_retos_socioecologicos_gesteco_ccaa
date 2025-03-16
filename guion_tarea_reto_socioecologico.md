@@ -101,10 +101,6 @@ Tras identificar el o los escenarios que se consideran más plausibles, se defin
 
 
 
-
-
-
-
 ## Forma de entrega
 
 Esta sección se concretará más en el futuro. Por ahora debes saber lo siguiente:
@@ -116,18 +112,11 @@ Esta sección se concretará más en el futuro. Por ahora debes saber lo siguien
 
 
 
-<!-- Esto no se verá al renderizar -->
-
 ## Criterios de calificación (rúbrica)
 
-Esta sección se concretará más en el futuro. Por ahora debes de saber lo siguiente:
-
-- Para los grupos se tendrá en cuenta el dinamismo del trabajo en el Teams.
-- Cada miembro del equipo recibirá una calificación independiente, ponderada seguramente mediante una encuesta de autoevaluación.
+En construcción
 
 
-
-<!-- Fin del comentario -->
 
 
 ****
