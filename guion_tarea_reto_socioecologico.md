@@ -1,4 +1,4 @@
-#  Abordaje de retos en sistemas socioecológicos
+#  Instrucciones para el abordaje de retos en sistemas socioecológicos
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span>
 > + **_Versión_**: 2024-2025
