@@ -75,7 +75,7 @@ Esta primera etapa implica identificar adecuadamente la naturaleza compleja del 
 ### [Identificación de actores involucrados y de sus objetivos-necesidades](https://raw.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/main/guion_actores_reto.html)
 El segundo paso implica desarrollar una comprensión profunda de las partes interesadas que estén involucradas en el problema o que puedan verse afectadas por las soluciones propuestas. Esto incluye a comunidades locales, empresas, organizaciones, gobiernos, etc. Además de identificarlos, es importante caracterizar cuáles pueden ser su objetivos y sus necesidades, así como sus discursos públicos (externos) y privados (internos) sobre el problema en cuestión.
 
-### Descomposición funcional en otros problemas mas manejables
+### [Descomposición funcional en otros problemas mas manejables](https://raw.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/main/guion_descomposicion_reto.html)
 
 Esta estapa implica tratar de descomponer el problema complejo en otros que puedan ser más sencillos de abordar. Tiene sentido, por ejemplo, identificar las necesidades científico-técnicas del problema complejo. Estas suelen ser más fácilmente abordables.
 
