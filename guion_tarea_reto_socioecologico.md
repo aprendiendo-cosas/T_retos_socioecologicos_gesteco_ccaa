@@ -61,6 +61,12 @@ Esta herramienta es, básicamente, una especie de pizarra de superficie infinita
 
 
 
+### Draw.io
+
+Esta aplicación es muy útil para hacer esquemas, flujos de trabajo y diagramas de diverso tipo. Permite crear objetos de distintos tamaños y formas, así como relacionarlos con flechas. Los objetos que vamos creando se pueden almacenar en capas que se pueden hacer visibles o invisibles con un click. Sugiero que la uséis para construir los diagramas de interdependencias en los socioecosistemas en los que se desarrolla vuestro trabajo. Se puede descargar [aquí](https://www.drawio.com/blog/diagrams-offline). 
+
+
+
 ## Metodología propuesta para abordar el reto 
 
 Seguiremos una metodología denominada "complex problem solving" (CPS). Esta técnica comenzó a desarrollarse en Alemania en la década de 1970. Se desarrolló como un intento de abordar problemas que no podían resolverle con aproximaciones lineales tradicionales. El CPS implica tener en cuenta la complejidad de los sistemas y la importancia de la interrelación entre sus componentes. También asume que el sistema cambia tanto su estructura como su funcionamiento en el tiempo y en el espacio. Este comportamiento no lineal se debe a la multitud de elementos del sistema que están interactuando entre sí y que generan propiedades emergentes complejas. La consecuencia de esto a escala de sistema es que hay multitud de retroalimentaciones y que la incertidumbre es muy alta en todos los procesos del sistema y del problema a abordar.
@@ -114,7 +120,19 @@ Esta sección se concretará más en el futuro. Por ahora debes saber lo siguien
 
 ## Criterios de calificación (rúbrica)
 
-En construcción
+El aprendizaje generado por los estudiantes al realizar esta tarea se evaluará de dos formas. Por un lado habrá una serie de criterios que se aplicarán por igual a todos los miembros de cada equipo. También habrá criterios aplicados a individualmente a cada miembro del equipo. Además, en ambos niveles se aplicarán métodos de autoevaluación que se compatibilizarán con la evaluación del profesor.
+
+Lo anterior se materializa de la siguiente manera:
+
+#### Criterios aplicados a todos los miembros del grupo
+
+Estos criterios de evaluación inciden el resultado final del trabajo y en el desempeño general del grupo para lograr dicho resultado. En este sentido, se considerarán los siguientes criterios:
+
+- 
+
+
+
+El desempeño en este trabajo tendrá una componente grupal y otra individual. Es decir, habrá una serie de criterios 
 
 
 
