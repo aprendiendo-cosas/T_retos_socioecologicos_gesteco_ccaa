@@ -120,19 +120,98 @@ Esta sección se concretará más en el futuro. Por ahora debes saber lo siguien
 
 ## Criterios de calificación (rúbrica)
 
-El aprendizaje generado por los estudiantes al realizar esta tarea se evaluará de dos formas. Por un lado habrá una serie de criterios que se aplicarán por igual a todos los miembros de cada equipo. También habrá criterios aplicados a individualmente a cada miembro del equipo. Además, en ambos niveles se aplicarán métodos de autoevaluación que se compatibilizarán con la evaluación del profesor.
+En esta sección se detalla el procedimiento de calificación de esta tarea. En primer lugar se distingue entre los estudiantes que están trabajando en equipo de aquellos que lo hacen de manera individual:
 
-Lo anterior se materializa de la siguiente manera:
+#### Trabajo en equipo
 
-#### Criterios aplicados a todos los miembros del grupo
+Esta tarea se evaluará desde varios puntos de vista o en distintos planos. Habrá un proceso de evaluación por parte del profesor y también por parte de los estudiantes (autoevaluación). Además, se evaluará el desempeño de los grupos y el de los estudiantes individualmente. En definitiva, se realizarán las siguientes evaluaciones:
 
-Estos criterios de evaluación inciden el resultado final del trabajo y en el desempeño general del grupo para lograr dicho resultado. En este sentido, se considerarán los siguientes criterios:
++ Autoevaluación grupal (**15% de la nota**). Cada estudiante evaluará el desempeño de cada grupo, incluido el suyo propio.
++ Autoevaluación individual (**15% de la nota**). Cada estudiante evaluará el desempeño de él/ella mismo/a y el del resto de compañeros de su grupo.
++ Evaluación grupal por parte del profesor (**40% de la nota**). El profesor evaluará el desempeño de todos los grupos.
++ Evaluación individual por parte del profesor (**30% de la nota**). El profesor evaluará el aprendizaje de todos los estudiantes y su trabajo dentro de su grupo. 
 
-- 
+A continuación se describen los criterios de calificación de cada proceso, así como los niveles correspondientes.
+
+##### Autoevaluación grupal
+
+Cada estudiante deberá evaluar el trabajo realizado por todos los grupos, incluido el suyo. En este caso se pondrá el foco fundamentalmente en el proceso de trabajo de los grupos y en el aprendizaje alcanzado. Se contemplan los siguientes criterios y niveles. 
 
 
 
-El desempeño en este trabajo tendrá una componente grupal y otra individual. Es decir, habrá una serie de criterios 
+| Criterios                                                | Insuficiente (0-4)                                          | Mejorable (5-6)                                       | Satisfactorio (7-8)                                     | Excelente (9-10)                                           |
+| -------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
+| *Calidad de la bibliografía y documentación recopilada*  | Fuentes escasas o irrelevantes, documentación desorganizada | Fuentes básicas pero limitadas, documentación parcial | Fuentes relevantes y diversas, documentación organizada | Fuentes exhaustivas y actualizadas, documentación ejemplar |
+| *Registro y documentación del proceso*                   | Registro ausente o muy incompleto                           | Registro básico con lagunas importantes               | Registro completo y bien organizado                     | Registro detallado con reflexiones críticas                |
+| *Uso del asistente IA personalizado*                     | No se usó o fue irrelevante                                 | Uso básico sin incorporar bibliografía                | Uso adecuado con bibliografía básica                    | Uso innovador y crítico, esencial para el análisis         |
+| *Calidad de la caracterización del reto asignado*        | Caracterización superficial/errónea                         | Identificación parcial del reto                       | Caracterización adecuada del reto                       | Análisis multidimensional y profundo                       |
+| *Integración socioecosistémica de propuestas realizadas* | Soluciones lineales sin visión sistémica                    | Integración parcial de elementos clave                | Integración coherente de componentes                    | Propuestas innovadoras con integración sistémica           |
+| *Calidad de la presentación realizada*                   | Presentación confusa/desorganizada                          | Estructura básica pero comprensible                   | Presentación clara con recursos visuales                | Presentación profesional y altamente efectiva              |
+
+
+
+##### Autoevaluación individual
+
+Cada estudiante evaluará el trabajo realizado por sí mismo y por los integrantes de su grupo de trabajo. En este caso se pondrá el foco en aspectos relacionados con el trabajo en equipo.
+
+
+
+| Criterios                       | Insuficiente (0-4)                               | Mejorable (5-6)                         | Satisfactorio (7-8)                        | Excelente (9-10)                                      |
+| ------------------------------- | ------------------------------------------------ | --------------------------------------- | ------------------------------------------ | ----------------------------------------------------- |
+| *Grado de compromiso*           | Desinterés constante, incumplimiento sistemático | Participación irregular sin iniciativa  | Cumplimiento puntual y colaboración activa | Liderazgo constante e impulso al grupo                |
+| *Desempeño en tareas asignadas* | Tareas no realizadas o de calidad inaceptable    | Tareas básicas que requieren revisiones | Tareas completadas adecuadamente           | Resultados excepcionales que enriquecen al grupo      |
+| *Resolución de problemas*       | Incapacidad para resolver incluso con ayuda      | Soluciones básicas con apoyo externo    | Soluciones viables en mayoría de casos     | Soluciones creativas e independientes                 |
+| *Contribución al grupo*         | Aportaciones nulas o contraproducentes           | Participación ocasional en tareas       | Contribuciones regulares y útiles          | Aportaciones valiosas que mejoran resultados grupales |
+
+
+
+##### Evaluación grupal por parte del profesor
+
+En este caso se usarán los mismos criterios que en la autoevaluación grupal.
+
+
+
+| Criterios                                                | Insuficiente (0-4)                                          | Mejorable (5-6)                                       | Satisfactorio (7-8)                                     | Excelente (9-10)                                           |
+| -------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
+| *Calidad de la bibliografía y documentación recopilada*  | Fuentes escasas o irrelevantes, documentación desorganizada | Fuentes básicas pero limitadas, documentación parcial | Fuentes relevantes y diversas, documentación organizada | Fuentes exhaustivas y actualizadas, documentación ejemplar |
+| *Registro y documentación del proceso*                   | Registro ausente o muy incompleto                           | Registro básico con lagunas importantes               | Registro completo y bien organizado                     | Registro detallado con reflexiones críticas                |
+| *Uso del asistente IA personalizado*                     | No se usó o fue irrelevante                                 | Uso básico sin incorporar bibliografía                | Uso adecuado con bibliografía básica                    | Uso innovador y crítico, esencial para el análisis         |
+| *Calidad de la caracterización del reto asignado*        | Caracterización superficial/errónea                         | Identificación parcial del reto                       | Caracterización adecuada del reto                       | Análisis multidimensional y profundo                       |
+| *Integración socioecosistémica de propuestas realizadas* | Soluciones lineales sin visión sistémica                    | Integración parcial de elementos clave                | Integración coherente de componentes                    | Propuestas innovadoras con integración sistémica           |
+| *Calidad de la presentación realizada*                   | Presentación confusa/desorganizada                          | Estructura básica pero comprensible                   | Presentación clara con recursos visuales                | Presentación profesional y altamente efectiva              |
+
+
+
+##### Evaluación individual por parte del profesor
+
+Para esta categoría de evaluación se considerarán criterios relacionados con la implicación de cada estudiante en las actividades grupales y en la salida de campo. 
+
+
+
+| Criterios                                       | Insuficiente (0-4)                     | Mejorable (5-6)                         | Satisfactorio (7-8)                   | Excelente (9-10)                          |
+| ----------------------------------------------- | -------------------------------------- | --------------------------------------- | ------------------------------------- | ----------------------------------------- |
+| *Participación en salidas prácticas y de campo* | Ausencias frecuentes, actitud pasiva   | Participación irregular                 | Participación activa y constante      | Liderazgo en actividades grupales         |
+| *Compromiso con el grupo*                       | Actitud individualista, desvinculación | Colaboración ocasional bajo supervisión | Integración plena en dinámica grupal  | Cohesión grupal y mediación de conflictos |
+| *Habilidades interpersonales*                   | Dificultades relacionales persistentes | Comunicación básica sin conflictos      | Interacción respetuosa y constructiva | Gestión emocional y facilitación grupal   |
+| *Adaptabilidad y aprendizaje continuo*          | Resistencia al cambio y feedback       | Ajustes lentos con orientación          | Capacidad de adaptación demostrada    | Aprendizaje autónomo y mejora constante   |
+
+
+
+### Trabajo individual
+
+La evaluación para los estudiantes que eligieron la calificación discreta se realizará usando la siguiente rúbrica:
+
+
+
+| Criterios                                                | Insuficiente (0-4)                                          | Mejorable (5-6)                                       | Satisfactorio (7-8)                                     | Excelente (9-10)                                          |
+| -------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| *Calidad de la bibliografía y documentación recopilada*  | Fuentes escasas o irrelevantes, documentación desorganizada | Fuentes básicas pero limitadas, documentación parcial | Fuentes relevantes y diversas, documentación organizada | Fuentes exhaustivas y actualizadas, documentación ejempla |
+| *Uso del asistente IA personalizado*                     | No se usó o fue irrelevante                                 | Uso básico sin incorporar bibliografía                | Uso adecuado con bibliografía básica                    | Uso innovador y crítico, esencial para el análisis        |
+| *Calidad de la caracterización del reto asignado*        | Caracterización superficial/errónea                         | Identificación parcial del reto                       | Caracterización adecuada del reto                       | Análisis multidimensional y profundo                      |
+| *Integración socioecosistémica de propuestas realizadas* | Soluciones lineales sin visión sistémica                    | Integración parcial de elementos clave                | Integración coherente de componentes                    | Propuestas innovadoras con integración sistémica          |
+| *Calidad de la presentación realizada*                   | Presentación confusa/desorganizada                          | Estructura básica pero comprensible                   | Presentación clara con recursos visuales                | Presentación profesional y altamente efectiva             |
+
+
 
 
 
