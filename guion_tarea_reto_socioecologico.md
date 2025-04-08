@@ -111,10 +111,10 @@ Tras identificar el o los escenarios que se consideran más plausibles, se defin
 
 Esta sección se concretará más en el futuro. Por ahora debes saber lo siguiente:
 
-- Cada grupo o individuo deberá entregar un producto tangible en el que se muestren resultados relacionados con los pasos descritos en las secciones anteriores. La forma de ese producto queda a vuestra elección. Por ejemplo, puede ser un texto, una web, un vídeo, un juego de mesa. Lo importante es que el producto presentado se alinee con los objetivos de la tarea y recoja elementos de las fases anteriormente descritas.
+- Cada grupo o individuo deberá entregar un producto tangible en el que se muestren resultados relacionados con los pasos descritos en las secciones anteriores. La forma de ese producto queda a vuestra elección. Por ejemplo, puede ser un texto, una web, un vídeo, un juego de mesa, etc.. Lo importante es que el producto presentado se alinee con los objetivos de la tarea y recoja elementos de las fases anteriormente descritas.
 - Además, los grupos tendrán que hacer una presentación oral de sus resultados. Eso se hará en una de las dos siguientes modalidades:
   - Organizaremos una jornada en el aulario de Rabanales en la que cada grupo presentará sus resultados a las personas que vayan pasando por allí. Pondremos mesas y pantallas para que los estudiantes hagan la presentación de su proyecto. Cada asistente realizará una valoración del trabajo realizado. Estoy trabajando para que los ganadores tengan un premio.
-  - También organizaremos una o dos jornadas con institutos de Córdoba para que los grupos presenten sus trabajos allí.
+  - También organizaremos una jornada en un instituto de Córdoba para que los grupos presenten sus trabajos allí.
 
 
 
