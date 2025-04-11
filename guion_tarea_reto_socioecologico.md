@@ -41,7 +41,7 @@ Me comunicaré con vosotros a través de esta herramienta. También vosotros pod
 
 
 
-### Asistente IA
+### Asistentes IA
 
 Es muy recomendable que cada equipo tenga un asistente IA personalizado que ayude a abordar el reto asignado. No basta con usar una IA genérica como ChatGPT o Perplexity. Es necesario incorporar al modelo de lenguaje una serie de fuentes de datos que puedan usarase como base de conocimiento específica del tema con el que estamos trabajando. Para hacer esto es posible usar los llamados GPTs de ChatGPT o también una IA llamada Google Notebook LM. La primera opción requiere tener una licencia de pago, así que, os sugiero que uséis la segunda. Para ello debéis dar los siguientes pasos:
 
@@ -52,6 +52,11 @@ Es muy recomendable que cada equipo tenga un asistente IA personalizado que ayud
 - Al crear el cuaderno el sistema nos pide directamente las fuentes que vamos a usar. Podemos añadir fuentes en cualquier paso del proceso. Es decir, si ponemos en marcha el cuaderno y días después damos con otra fuente relevante, es posible subirla sin problema. 
 - Una vez subidas las fuentes, podemos empezar a conversar con la IA usando prompts bien elaborados tal y como vimos el cuatrimestre pasado en ecología. Las respuestas que da Notebook LM pueden almacenarse como notas dentro del sistema. Esto es especialmente útil para "recordar" las cuestiones que nos resultan interesantes. 
 - Cuando tengáis configurado el Notebook es importante que lo compartáis conmigo. Para ello basta con darle al botón de compartir (botón con tres puntos unidos por líneas arriba a la derecha) y poner esta dirección de correo: fjbonet@gmail.com . De esta forma yo veré cómo evoluciona y cómo usáis vuestro asistente personalizado.
+
+Además de este asistente personalizado, recomiendo también el uso de las siguientes herramientas:
+
+- [Perplexity](https://www.perplexity.ai/): es un chat de IA parecido a chatgpt, pero tiene funciones avanzadas de búsqueda en internet tanto de artículos científicos como de foros. Además, aporta una gran cantidad de fuentes de interés en las respuesta que da.
+- [Elicit](https://elicit.org/): De nuevo, es un interfaz de lenguaje natural. En este caso la particularidad es que genera un informre detallado a partir de preguntas cuya respuesta requiera conocimiento científico. Genera ese informe a partir de resultados procedentes de artículos científicos relacionados con la pregunta.
 
 
 
@@ -104,6 +109,29 @@ El dinamismo anterior y la relación con el cambio global se pueden plasmar en l
 ### Fase VIII: Creación de propuestas para lograr el objetivo deseado
 
 Tras identificar el o los escenarios que se consideran más plausibles, se definirán actuaciones que permitan lograr el objetivo en cuestión. Estas actuaciones deberán tener en cuenta cuestiones científico-técnicas (qué tipo de acciones realizar) y de goberanza (qué actor y a qué escala se realizan las actuaciones)
+
+
+## Abordaje del reto en las clases presenciales
+El reto planteado en este guión se abordará durante toda la asignatura siguiendo una aproximación de menos a más intensidad. Las primeras semanas del cuatrimestre se dedicarán a estudiar conceptos teóricos potencialmente útiles para abordar el reto. Hacia la mitad de la asignatura dedicaremos todas las sesiones teóricas a trabajar en el reto asignado. La salida de campo será el punto de inflexión en esta tendencia que traslada el foco desde lo teórico hasta lo aplicado dentro de la asignatura. Además, también se producirá un cambio en el protagonismo de las clases. En la primera mitad de la asignatura será el profesor el que realice clases expositivas. En la parte final serán los estudiantes los que se "adueñen" de su trabajo y lo aborden de manera colaborativa en clase. Irán ganando autonomía progresivamente para trabajar en el reto asignado.
+
+Lo anterior se concretará en el siguiente calendario:
++ *En la fase inicial* (hasta la salida de campo), los estudiantes se familiarizarán con el reto asignado. El profesor guiará las actividades relacionadas con el mismo, que serán todavía muy escasas. Se configurarán los equipos de trabajo y los estudiantes empezarán a familiarizarse con las herramientas digitales utilizadas: Teams, Miro, IAs, etc.
++ *Fase intermedia.* En esta etapa, abordaremos los retos en clases presenciales. Las sesiones serán organizadas por el profesor. En cada una de ellas habrá unos objetivos específicos que serán definidos por el profesor. Estos objetivos se relacionan con las fases del método "complex problem solving" descrito en las secciones anteriores de este documento. Estas sesiones discurrirán de la siguiente manera:
+
+   + Al inicio de la clase o antes de la misma, los estudiantes de cada grupo definirán quién adopta uno de los siguientes roles para la clase en cuestión:
+     + Coordinador o líder: se encargará de guiar la sesión, dar turnos de palabras y definir los acuerdos.
+     + Relator: se encargará de tomar nota de cómo discurre la sesión y de crear un acta.
+     + Portavoz: se encargará de hablar a la clase cuando sea necesario.
+   + Al final de cada clase cada grupo deberá de hacer lo siguiente:
+     + Describir muy brevemente (1') los avances realizados.
+     + Describir en Teams (o en un word incluído en el onedrive) lo que ha trabajado el equipo en esa sesión, los conflictos y los acuerdos alcanzados.
+
+   Durante esta fase intermedia, también se harán actividades orientadas a fomentar la colaboración entre grupos:
+
+   + Consultores rotatorios. Un miembro de cada equipo se irá a otro para ofrecer una perspectiva externa. Esto ayudará al consultor a entender mejor qué hacen sus compañeros. El grupo receptor se beneficiará al contar con la visión nueva de alguien que no conoce el trabajo ya realizado. En términos ecológicos haremos una especie de "polinización cruzada" de ideas entre grupos. 
+   + Momentos de contraste metodológico. El profesor aportará a toda la clase elementos clave que haya visto en alguno de los grupos con objeto de evitar que otros caigan en errores o para fomentar la adopción de procedimientos válidos.
+
++ *Fase avanzada*. En las dos últimas semanas de clase los estudiantes trabajarán de forma autónoma y grupal. La retroalimentación por parte del profesor se realizará a demanda de los grupos. De esta forma se fomenta un proceso paulatino de autonomía y autoliderazgo. 
 
 
 
