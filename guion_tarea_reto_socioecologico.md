@@ -94,7 +94,7 @@ Esta estapa implica tratar de descomponer el problema complejo en otros que pued
 
 Conocer las relaciones de interdependencia entre actores y elementos clave del sistema complejo es fundamental para abordar los retos socioecológicos. Para hacer este análisis se pueden hacer mapas conceptuales que permitan visualizar las conexiones entre componentes sociales y ambientales. Esto permite identificar las relaciones clave y los "lugares" del sistema en los que las intervenciones pueden tener mayor impacto.
 
-### [Fase V: Análisis del contexto legistlativo y de gestión](https://raw.githack.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/main/guion_legislacion_reto.html)
+### [Fase V: Análisis del contexto legislativo y de gestión](https://raw.githack.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/main/guion_legislacion_reto.html)
 
 Esta etapa es fundamental porque nos permite conocer el contexto legislativo que afecta al reto socioecológico que estamos abordando. No se trata de hacer una descripción exhaustiva de todas las disposiciones legales que afectan a nuestro reto, sino únicamente identificar las más relevantes. 
 
