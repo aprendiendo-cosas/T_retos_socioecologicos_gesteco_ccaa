@@ -102,11 +102,11 @@ Esta etapa es fundamental porque nos permite conocer el contexto legislativo que
 
 Esta fase implica explicar el dinamismo del reto socioecológico en cuestión. Se trata de analizar las propiedades dinámicas del mismo evaluando en qué medida los elementos estructurales y funcionales identificados anteriormente han ido cambiando a lo largo del tiempo. Aquí es importante tener en cuenta el concepto de panarquía que ya vimos en clase. Este análisis nos dará información clave para identificar posibles escenarios de futuro para el sistema.
 
-### Fase VII: Desarrollo y evaluación de escenarios plausibles
+### [Fase VII: Desarrollo y evaluación de escenarios plausibles](https://rawcdn.githack.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/2024_2025/guion_escenarios_reto.html)
 
 El dinamismo anterior y la relación con el cambio global se pueden plasmar en la construcción de distintos escenarios que nos ayuden a imaginar futuros posibles para el sistema analizado. Estos escenarios se harán realidad o no en función de las condiciones de contexto (legislación, condiciones internas, etc.) y de las actuaciones realizadas.
 
-### Fase VIII: Creación de propuestas para lograr el objetivo deseado
+### [Fase VIII: Creación de propuestas alcanzar los escenarios futuros](https://rawcdn.githack.com/aprendiendo-cosas/P_propuestas_reto_gesteco_ccaa/2024_2025/guion_propuestas_reto.html)
 
 Tras identificar el o los escenarios que se consideran más plausibles, se definirán actuaciones que permitan lograr el objetivo en cuestión. Estas actuaciones deberán tener en cuenta cuestiones científico-técnicas (qué tipo de acciones realizar) y de goberanza (qué actor y a qué escala se realizan las actuaciones)
 
