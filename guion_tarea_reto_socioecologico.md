@@ -80,10 +80,10 @@ En la actualidad el CPS se aplica fundamentalmente en el ámbito empresarial y d
 
 A continuación se irán mostrando las fases del trabajo que vamos completando. Por ahora verás solo una lista y una brevísima descripción de cada fase. Pero conforme vayamos avanzando, cada fase estará enlazada con un guión específico en el que se describirá con detalle lo que haremos. Cada semana aproximadamente completaremos una fase.
 
-### [Fase I: Reconocimiento y contextualización del problema](https://raw.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/main/guion_reconocimiento_reto.html)
+### [Fase I: Reconocimiento y contextualización del problema](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2024-2025/guion_reconocimiento_reto.html)
 Esta primera etapa implica identificar adecuadamente la naturaleza compleja del problema a abordar. Esto implica reconocer la multiplicidad de perspectivas, la ausencia de una solución única, la "movilidad" del objetivo a alcanzar y las relaciones con otros problemas y sistemas. 
 
-### [Fase II: Identificación de actores involucrados y de sus objetivos-necesidades](https://raw.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/main/guion_actores_reto.html)
+### [Fase II: Identificación de actores involucrados y de sus objetivos-necesidades](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2024_2025/guion_actores_reto.html)
 El segundo paso implica desarrollar una comprensión profunda de las partes interesadas que estén involucradas en el problema o que puedan verse afectadas por las soluciones propuestas. Esto incluye a comunidades locales, empresas, organizaciones, gobiernos, etc. Además de identificarlos, es importante caracterizar cuáles pueden ser su objetivos y sus necesidades, así como sus discursos públicos (externos) y privados (internos) sobre el problema en cuestión.
 
 ### [Fase III: Descomposición funcional en otros problemas más manejables](https://raw.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/main/guion_descomposicion_reto.html)
