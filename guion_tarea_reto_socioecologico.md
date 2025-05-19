@@ -98,7 +98,7 @@ Conocer las relaciones de interdependencia entre actores y elementos clave del s
 
 Esta etapa es fundamental porque nos permite conocer el contexto legislativo que afecta al reto socioecológico que estamos abordando. No se trata de hacer una descripción exhaustiva de todas las disposiciones legales que afectan a nuestro reto, sino únicamente identificar las más relevantes. 
 
-### Fase VI: Identificación de propiedades dinámicas y ciclos adaptativos
+### [Fase VI: Identificación de propiedades dinámicas y ciclos adaptativos](https://rawcdn.githack.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/guion_historia_reto.html)
 
 Esta fase implica explicar el dinamismo del reto socioecológico en cuestión. Se trata de analizar las propiedades dinámicas del mismo evaluando en qué medida los elementos estructurales y funcionales identificados anteriormente han ido cambiando a lo largo del tiempo. Aquí es importante tener en cuenta el concepto de panarquía que ya vimos en clase. Este análisis nos dará información clave para identificar posibles escenarios de futuro para el sistema.
 
@@ -111,7 +111,9 @@ El dinamismo anterior y la relación con el cambio global se pueden plasmar en l
 Tras identificar el o los escenarios que se consideran más plausibles, se definirán actuaciones que permitan lograr el objetivo en cuestión. Estas actuaciones deberán tener en cuenta cuestiones científico-técnicas (qué tipo de acciones realizar) y de goberanza (qué actor y a qué escala se realizan las actuaciones)
 
 
+
 ## Abordaje del reto en las clases presenciales
+
 El reto planteado en este guión se abordará durante toda la asignatura siguiendo una aproximación de menos a más intensidad. Las primeras semanas del cuatrimestre se dedicarán a estudiar conceptos teóricos potencialmente útiles para abordar el reto. Hacia la mitad de la asignatura dedicaremos todas las sesiones teóricas a trabajar en el reto asignado. La salida de campo será el punto de inflexión en esta tendencia que traslada el foco desde lo teórico hasta lo aplicado dentro de la asignatura. Además, también se producirá un cambio en el protagonismo de las clases. En la primera mitad de la asignatura será el profesor el que realice clases expositivas. En la parte final serán los estudiantes los que se "adueñen" de su trabajo y lo aborden de manera colaborativa en clase. Irán ganando autonomía progresivamente para trabajar en el reto asignado.
 
 Lo anterior se concretará en el siguiente calendario:
@@ -154,27 +156,13 @@ En esta sección se detalla el procedimiento de calificación de esta tarea. En 
 
 Esta tarea se evaluará desde varios puntos de vista o en distintos planos. Habrá un proceso de evaluación por parte del profesor y también por parte de los estudiantes (autoevaluación). Además, se evaluará el desempeño de los grupos y el de los estudiantes individualmente. En definitiva, se realizarán las siguientes evaluaciones:
 
-+ Autoevaluación grupal (**15% de la nota**). Cada estudiante evaluará el desempeño de cada grupo, incluido el suyo propio.
 + Autoevaluación individual (**15% de la nota**). Cada estudiante evaluará el desempeño de él/ella mismo/a y el del resto de compañeros de su grupo.
-+ Evaluación grupal por parte del profesor (**40% de la nota**). El profesor evaluará el desempeño de todos los grupos.
-+ Evaluación individual por parte del profesor (**30% de la nota**). El profesor evaluará el aprendizaje de todos los estudiantes y su trabajo dentro de su grupo. 
++ Evaluación grupal por parte del profesor (**45% de la nota**). El profesor evaluará el desempeño de todos los grupos.
++ Evaluación individual por parte del profesor (**40% de la nota**). El profesor evaluará el aprendizaje de todos los estudiantes y su trabajo dentro de su grupo. 
+
+Los grupos entregarán su resultado final en [este](https://www.turnitin.com/t_submit.asp?lang=en_us&aid=169614819) enlace de Turnitin. Las personas que optaron por la calificación discreta tendrán que entregarlo [aquí](https://www.turnitin.com/t_submit.asp?lang=en_us&aid=169615141). En ambos casos, la fecha máxima de entrega será el día 16 de junio de 2025 a las 23:59.
 
 A continuación se describen los criterios de calificación de cada proceso, así como los niveles correspondientes.
-
-##### Autoevaluación grupal
-
-Cada estudiante deberá evaluar el trabajo realizado por todos los grupos, incluido el suyo. En este caso se pondrá el foco fundamentalmente en el proceso de trabajo de los grupos y en el aprendizaje alcanzado. Se contemplan los siguientes criterios y niveles. 
-
-
-
-| Criterios                                                | Insuficiente (0-4)                                          | Mejorable (5-6)                                       | Satisfactorio (7-8)                                     | Excelente (9-10)                                           |
-| -------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
-| *Calidad de la bibliografía y documentación recopilada*  | Fuentes escasas o irrelevantes, documentación desorganizada | Fuentes básicas pero limitadas, documentación parcial | Fuentes relevantes y diversas, documentación organizada | Fuentes exhaustivas y actualizadas, documentación ejemplar |
-| *Registro y documentación del proceso*                   | Registro ausente o muy incompleto                           | Registro básico con lagunas importantes               | Registro completo y bien organizado                     | Registro detallado con reflexiones críticas                |
-| *Uso del asistente IA personalizado*                     | No se usó o fue irrelevante                                 | Uso básico sin incorporar bibliografía                | Uso adecuado con bibliografía básica                    | Uso innovador y crítico, esencial para el análisis         |
-| *Calidad de la caracterización del reto asignado*        | Caracterización superficial/errónea                         | Identificación parcial del reto                       | Caracterización adecuada del reto                       | Análisis multidimensional y profundo                       |
-| *Integración socioecosistémica de propuestas realizadas* | Soluciones lineales sin visión sistémica                    | Integración parcial de elementos clave                | Integración coherente de componentes                    | Propuestas innovadoras con integración sistémica           |
-| *Calidad de la presentación realizada*                   | Presentación confusa/desorganizada                          | Estructura básica pero comprensible                   | Presentación clara con recursos visuales                | Presentación profesional y altamente efectiva              |
 
 
 
@@ -195,7 +183,7 @@ Cada estudiante evaluará el trabajo realizado por sí mismo y por los integrant
 
 ##### Evaluación grupal por parte del profesor
 
-En este caso se usarán los mismos criterios que en la autoevaluación grupal.
+
 
 
 
