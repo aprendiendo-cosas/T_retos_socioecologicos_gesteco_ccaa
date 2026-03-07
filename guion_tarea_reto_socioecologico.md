@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea que dura todo el cuatrimestre.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/refs/tags/2024-2025/imagenes/portada.png)
 
 
 
@@ -86,15 +86,15 @@ Esta primera etapa implica identificar adecuadamente la naturaleza compleja del 
 ### [Fase II: Identificación de actores involucrados y de sus objetivos-necesidades](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2024_2025/guion_actores_reto.html)
 El segundo paso implica desarrollar una comprensión profunda de las partes interesadas que estén involucradas en el problema o que puedan verse afectadas por las soluciones propuestas. Esto incluye a comunidades locales, empresas, organizaciones, gobiernos, etc. Además de identificarlos, es importante caracterizar cuáles pueden ser su objetivos y sus necesidades, así como sus discursos públicos (externos) y privados (internos) sobre el problema en cuestión.
 
-### [Fase III: Descomposición funcional en otros problemas más manejables](https://raw.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/main/guion_descomposicion_reto.html)
+### [Fase III: Descomposición funcional en otros problemas más manejables](https://raw.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/2024-2025/guion_descomposicion_reto.html)
 
 Esta estapa implica tratar de descomponer el problema complejo en otros que puedan ser más sencillos de abordar. Tiene sentido, por ejemplo, identificar las necesidades científico-técnicas del problema complejo. Estas suelen ser más fácilmente abordables.
 
-### [Fase IV: Análisis de interdependencias](https://raw.githack.com/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa/main/guion_interdependencias_reto.html)
+### [Fase IV: Análisis de interdependencias](https://raw.githack.com/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa/2024-2025/guion_interdependencias_reto.html)
 
 Conocer las relaciones de interdependencia entre actores y elementos clave del sistema complejo es fundamental para abordar los retos socioecológicos. Para hacer este análisis se pueden hacer mapas conceptuales que permitan visualizar las conexiones entre componentes sociales y ambientales. Esto permite identificar las relaciones clave y los "lugares" del sistema en los que las intervenciones pueden tener mayor impacto.
 
-### [Fase V: Análisis del contexto legislativo y de gestión](https://raw.githack.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/main/guion_legislacion_reto.html)
+### [Fase V: Análisis del contexto legislativo y de gestión](https://raw.githack.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/2024_2025/guion_legislacion_reto.html)
 
 Esta etapa es fundamental porque nos permite conocer el contexto legislativo que afecta al reto socioecológico que estamos abordando. No se trata de hacer una descripción exhaustiva de todas las disposiciones legales que afectan a nuestro reto, sino únicamente identificar las más relevantes. 
 
