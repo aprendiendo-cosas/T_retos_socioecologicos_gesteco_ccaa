@@ -1,7 +1,7 @@
 #  Instrucciones para el abordaje de retos en sistemas socioecológicos
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span>
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea que dura todo el cuatrimestre.
@@ -43,20 +43,9 @@ Me comunicaré con vosotros a través de esta herramienta. También vosotros pod
 
 ### Asistentes IA
 
-Es muy recomendable que cada equipo tenga un asistente IA personalizado que ayude a abordar el reto asignado. No basta con usar una IA genérica como ChatGPT o Perplexity. Es necesario incorporar al modelo de lenguaje una serie de fuentes de datos que puedan usarase como base de conocimiento específica del tema con el que estamos trabajando. Para hacer esto es posible usar los llamados GPTs de ChatGPT o también una IA llamada Google Notebook LM. La primera opción requiere tener una licencia de pago, así que, os sugiero que uséis la segunda. Para ello debéis dar los siguientes pasos:
+Es muy recomendable que cada equipo tenga un asistente IA personalizado que ayude a abordar el reto asignado. No basta con usar una IA genérica como ChatGPT o Perplexity. Es necesario incorporar al modelo de lenguaje una serie de fuentes de datos que puedan usarase como base de conocimiento específica del tema con el que estamos trabajando. Para hacer esto es posible usar los llamados GPTs de ChatGPT o también una IA llamada Google Notebook LM. 
 
-- Acceder a esta web: https://notebooklm.google.com/ Solo tiene que hacerlo un miembro del grupo.
-- Si es la primera vez que entráis, os pedirá vuestro usuario de Gmail. Introducid los datos que pide.
-- Una vez dentro nos da la opción de crear un nuevo cuaderno (opción "crear")
-- Un cuaderno es una especie de sistema experto que se alimenta no solo de la inteligencia artificial propia de Google (Gemini), sino también del contenido de hasta 50 archivos de diferente tipo (textos en pdf y audios). Al subir la información que queramos, el sistema puede responder de manera más eficiente porque se enfoca en el contenido que le hemos dado. También es posible subir enlaces a webs, vídeos de youtube, etc. 
-- Al crear el cuaderno el sistema nos pide directamente las fuentes que vamos a usar. Podemos añadir fuentes en cualquier paso del proceso. Es decir, si ponemos en marcha el cuaderno y días después damos con otra fuente relevante, es posible subirla sin problema. 
-- Una vez subidas las fuentes, podemos empezar a conversar con la IA usando prompts bien elaborados tal y como vimos el cuatrimestre pasado en ecología. Las respuestas que da Notebook LM pueden almacenarse como notas dentro del sistema. Esto es especialmente útil para "recordar" las cuestiones que nos resultan interesantes. 
-- Cuando tengáis configurado el Notebook es importante que lo compartáis conmigo. Para ello basta con darle al botón de compartir (botón con tres puntos unidos por líneas arriba a la derecha) y poner esta dirección de correo: fjbonet@gmail.com . De esta forma yo veré cómo evoluciona y cómo usáis vuestro asistente personalizado.
-
-Además de este asistente personalizado, recomiendo también el uso de las siguientes herramientas:
-
-- [Perplexity](https://www.perplexity.ai/): es un chat de IA parecido a chatgpt, pero tiene funciones avanzadas de búsqueda en internet tanto de artículos científicos como de foros. Además, aporta una gran cantidad de fuentes de interés en las respuesta que da.
-- [Elicit](https://elicit.org/): De nuevo, es un interfaz de lenguaje natural. En este caso la particularidad es que genera un informre detallado a partir de preguntas cuya respuesta requiera conocimiento científico. Genera ese informe a partir de resultados procedentes de artículos científicos relacionados con la pregunta.
+Para usar las IAs de manera edificante, os recuerdo, de nuevo [aquí](https://aprendiendo-cosas.github.io/competencias_transversales/normas_IA/normas_IA.html) las normas que usamos. 
 
 
 
@@ -80,33 +69,33 @@ En la actualidad el CPS se aplica fundamentalmente en el ámbito empresarial y d
 
 A continuación se irán mostrando las fases del trabajo que vamos completando. Por ahora verás solo una lista y una brevísima descripción de cada fase. Pero conforme vayamos avanzando, cada fase estará enlazada con un guión específico en el que se describirá con detalle lo que haremos. Cada semana aproximadamente completaremos una fase.
 
-### [Fase I: Reconocimiento y contextualización del problema](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2024-2025/guion_reconocimiento_reto.html)
+### [Fase I: Reconocimiento y contextualización del problema](https://aprendiendo-cosas.github.io/P_reconocimiento_reto_gesteco_ccaa/guion_reconocimiento_reto.html)
 Esta primera etapa implica identificar adecuadamente la naturaleza compleja del problema a abordar. Esto implica reconocer la multiplicidad de perspectivas, la ausencia de una solución única, la "movilidad" del objetivo a alcanzar y las relaciones con otros problemas y sistemas. 
 
-### [Fase II: Identificación de actores involucrados y de sus objetivos-necesidades](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2024_2025/guion_actores_reto.html)
+### [Fase II: Identificación de actores involucrados y de sus objetivos-necesidades](https://aprendiendo-cosas.github.io/P_actores_reto_gesteco_ccaa/guion_actores_reto.html)
 El segundo paso implica desarrollar una comprensión profunda de las partes interesadas que estén involucradas en el problema o que puedan verse afectadas por las soluciones propuestas. Esto incluye a comunidades locales, empresas, organizaciones, gobiernos, etc. Además de identificarlos, es importante caracterizar cuáles pueden ser su objetivos y sus necesidades, así como sus discursos públicos (externos) y privados (internos) sobre el problema en cuestión.
 
-### [Fase III: Descomposición funcional en otros problemas más manejables](https://raw.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/2024-2025/guion_descomposicion_reto.html)
+### [Fase III: Descomposición funcional en otros problemas más manejables](https://aprendiendo-cosas.github.io//P_descomposicion_reto_gesteco_ccaa/guion_descomposicion_reto.html)
 
 Esta estapa implica tratar de descomponer el problema complejo en otros que puedan ser más sencillos de abordar. Tiene sentido, por ejemplo, identificar las necesidades científico-técnicas del problema complejo. Estas suelen ser más fácilmente abordables.
 
-### [Fase IV: Análisis de interdependencias](https://raw.githack.com/aprendiendo-cosas/P_interdependencias_reto_gesteco_ccaa/2024-2025/guion_interdependencias_reto.html)
+### [Fase IV: Análisis de interdependencias](https://aprendiendo-cosas.github.io/P_interdependencias_reto_gesteco_ccaa/guion_interdependencias_reto.html)
 
 Conocer las relaciones de interdependencia entre actores y elementos clave del sistema complejo es fundamental para abordar los retos socioecológicos. Para hacer este análisis se pueden hacer mapas conceptuales que permitan visualizar las conexiones entre componentes sociales y ambientales. Esto permite identificar las relaciones clave y los "lugares" del sistema en los que las intervenciones pueden tener mayor impacto.
 
-### [Fase V: Análisis del contexto legislativo y de gestión](https://raw.githack.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/2024_2025/guion_legislacion_reto.html)
+### [Fase V: Análisis del contexto legislativo y de gestión](https://aprendiendo-cosas.github.io/P_legislacion_reto_gesteco_ccaa/guion_legislacion_reto.html)
 
 Esta etapa es fundamental porque nos permite conocer el contexto legislativo que afecta al reto socioecológico que estamos abordando. No se trata de hacer una descripción exhaustiva de todas las disposiciones legales que afectan a nuestro reto, sino únicamente identificar las más relevantes. 
 
-### [Fase VI: Identificación de propiedades dinámicas y ciclos adaptativos](https://rawcdn.githack.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/guion_historia_reto.html)
+### [Fase VI: Identificación de propiedades dinámicas y ciclos adaptativos](https://aprendiendo-cosas.github.io/P_historia_reto_gesteco_ccaa/guion_historia_reto.html)
 
 Esta fase implica explicar el dinamismo del reto socioecológico en cuestión. Se trata de analizar las propiedades dinámicas del mismo evaluando en qué medida los elementos estructurales y funcionales identificados anteriormente han ido cambiando a lo largo del tiempo. Aquí es importante tener en cuenta el concepto de panarquía que ya vimos en clase. Este análisis nos dará información clave para identificar posibles escenarios de futuro para el sistema.
 
-### [Fase VII: Desarrollo y evaluación de escenarios plausibles](https://rawcdn.githack.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/2024_2025/guion_escenarios_reto.html)
+### [Fase VII: Desarrollo y evaluación de escenarios plausibles](https://aprendiendo-cosas.github.io/P_escenarios_reto_gesteco_ccaa/guion_escenarios_reto.html)
 
 El dinamismo anterior y la relación con el cambio global se pueden plasmar en la construcción de distintos escenarios que nos ayuden a imaginar futuros posibles para el sistema analizado. Estos escenarios se harán realidad o no en función de las condiciones de contexto (legislación, condiciones internas, etc.) y de las actuaciones realizadas.
 
-### [Fase VIII: Creación de propuestas alcanzar los escenarios futuros](https://rawcdn.githack.com/aprendiendo-cosas/P_propuestas_reto_gesteco_ccaa/2024_2025/guion_propuestas_reto.html)
+### [Fase VIII: Creación de propuestas alcanzar los escenarios futuros](https://aprendiendo-cosas.github.io/P_propuestas_reto_gesteco_ccaa/guion_propuestas_reto.html)
 
 Tras identificar el o los escenarios que se consideran más plausibles, se definirán actuaciones que permitan lograr el objetivo en cuestión. Estas actuaciones deberán tener en cuenta cuestiones científico-técnicas (qué tipo de acciones realizar) y de goberanza (qué actor y a qué escala se realizan las actuaciones)
 
