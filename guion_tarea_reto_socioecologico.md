@@ -128,97 +128,11 @@ Lo anterior se concretará en el siguiente calendario:
 
 ## Forma de entrega
 
-Esta sección se concretará más en el futuro. Por ahora debes saber lo siguiente:
-
-- Cada grupo o individuo deberá entregar un producto tangible en el que se muestren resultados relacionados con los pasos descritos en las secciones anteriores. La forma de ese producto queda a vuestra elección. Por ejemplo, puede ser un texto, una web, un vídeo, un juego de mesa, etc.. Lo importante es que el producto presentado se alinee con los objetivos de la tarea y recoja elementos de las fases anteriormente descritas.
-- Además, los grupos tendrán que hacer una presentación oral de sus resultados. Eso se hará en una de las dos siguientes modalidades:
-  - Organizaremos una jornada en el aulario de Rabanales en la que cada grupo presentará sus resultados a las personas que vayan pasando por allí. Pondremos mesas y pantallas para que los estudiantes hagan la presentación de su proyecto. Cada asistente realizará una valoración del trabajo realizado. Estoy trabajando para que los ganadores tengan un premio.
-  - También organizaremos una jornada en un instituto de Córdoba para que los grupos presenten sus trabajos allí.
-
-
+EN CONSTRUCCIÓN
 
 ## Criterios de calificación (rúbrica)
 
-En esta sección se detalla el procedimiento de calificación de esta tarea. En primer lugar se distingue entre los estudiantes que están trabajando en equipo de aquellos que lo hacen de manera individual:
-
-#### Trabajo en equipo
-
-Esta tarea se evaluará desde varios puntos de vista o en distintos planos. Habrá un proceso de evaluación por parte del profesor y también por parte de los estudiantes (autoevaluación). Además, se evaluará el desempeño de los grupos y el de los estudiantes individualmente. En definitiva, se realizarán las siguientes evaluaciones:
-
-+ Autoevaluación individual (**15% de la nota**). Cada estudiante evaluará el desempeño de él/ella mismo/a y el del resto de compañeros de su grupo.
-+ Evaluación grupal por parte del profesor (**45% de la nota**). El profesor evaluará el desempeño de todos los grupos.
-+ Evaluación individual por parte del profesor (**40% de la nota**). El profesor evaluará el aprendizaje de todos los estudiantes y su trabajo dentro de su grupo. 
-
-Los grupos entregarán su resultado final en [este](https://www.turnitin.com/t_submit.asp?lang=en_us&aid=169614819) enlace de Turnitin. Las personas que optaron por la calificación discreta tendrán que entregarlo [aquí](https://www.turnitin.com/t_submit.asp?lang=en_us&aid=169615141). En ambos casos, la fecha máxima de entrega será el día 16 de junio de 2025 a las 23:59.
-
-A continuación se describen los criterios de calificación de cada proceso, así como los niveles correspondientes.
-
-
-
-##### Autoevaluación individual
-
-Cada estudiante evaluará el trabajo realizado por sí mismo y por los integrantes de su grupo de trabajo. En este caso se pondrá el foco en aspectos relacionados con el trabajo en equipo.
-
-
-
-| Criterios                       | Insuficiente (0-4)                               | Mejorable (5-6)                         | Satisfactorio (7-8)                        | Excelente (9-10)                                      |
-| ------------------------------- | ------------------------------------------------ | --------------------------------------- | ------------------------------------------ | ----------------------------------------------------- |
-| *Grado de compromiso*           | Desinterés constante, incumplimiento sistemático | Participación irregular sin iniciativa  | Cumplimiento puntual y colaboración activa | Liderazgo constante e impulso al grupo                |
-| *Desempeño en tareas asignadas* | Tareas no realizadas o de calidad inaceptable    | Tareas básicas que requieren revisiones | Tareas completadas adecuadamente           | Resultados excepcionales que enriquecen al grupo      |
-| *Resolución de problemas*       | Incapacidad para resolver incluso con ayuda      | Soluciones básicas con apoyo externo    | Soluciones viables en mayoría de casos     | Soluciones creativas e independientes                 |
-| *Contribución al grupo*         | Aportaciones nulas o contraproducentes           | Participación ocasional en tareas       | Contribuciones regulares y útiles          | Aportaciones valiosas que mejoran resultados grupales |
-
-
-
-##### Evaluación grupal por parte del profesor
-
-
-
-
-
-| Criterios                                                | Insuficiente (0-4)                                          | Mejorable (5-6)                                       | Satisfactorio (7-8)                                     | Excelente (9-10)                                           |
-| -------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
-| *Calidad de la bibliografía y documentación recopilada*  | Fuentes escasas o irrelevantes, documentación desorganizada | Fuentes básicas pero limitadas, documentación parcial | Fuentes relevantes y diversas, documentación organizada | Fuentes exhaustivas y actualizadas, documentación ejemplar |
-| *Registro y documentación del proceso*                   | Registro ausente o muy incompleto                           | Registro básico con lagunas importantes               | Registro completo y bien organizado                     | Registro detallado con reflexiones críticas                |
-| *Uso del asistente IA personalizado*                     | No se usó o fue irrelevante                                 | Uso básico sin incorporar bibliografía                | Uso adecuado con bibliografía básica                    | Uso innovador y crítico, esencial para el análisis         |
-| *Calidad de la caracterización del reto asignado*        | Caracterización superficial/errónea                         | Identificación parcial del reto                       | Caracterización adecuada del reto                       | Análisis multidimensional y profundo                       |
-| *Integración socioecosistémica de propuestas realizadas* | Soluciones lineales sin visión sistémica                    | Integración parcial de elementos clave                | Integración coherente de componentes                    | Propuestas innovadoras con integración sistémica           |
-| *Calidad de la presentación realizada*                   | Presentación confusa/desorganizada                          | Estructura básica pero comprensible                   | Presentación clara con recursos visuales                | Presentación profesional y altamente efectiva              |
-
-
-
-##### Evaluación individual por parte del profesor
-
-Para esta categoría de evaluación se considerarán criterios relacionados con la implicación de cada estudiante en las actividades grupales y en la salida de campo. 
-
-
-
-| Criterios                                       | Insuficiente (0-4)                     | Mejorable (5-6)                         | Satisfactorio (7-8)                   | Excelente (9-10)                          |
-| ----------------------------------------------- | -------------------------------------- | --------------------------------------- | ------------------------------------- | ----------------------------------------- |
-| *Participación en salidas prácticas y de campo* | Ausencias frecuentes, actitud pasiva   | Participación irregular                 | Participación activa y constante      | Liderazgo en actividades grupales         |
-| *Compromiso con el grupo*                       | Actitud individualista, desvinculación | Colaboración ocasional bajo supervisión | Integración plena en dinámica grupal  | Cohesión grupal y mediación de conflictos |
-| *Habilidades interpersonales*                   | Dificultades relacionales persistentes | Comunicación básica sin conflictos      | Interacción respetuosa y constructiva | Gestión emocional y facilitación grupal   |
-| *Adaptabilidad y aprendizaje continuo*          | Resistencia al cambio y feedback       | Ajustes lentos con orientación          | Capacidad de adaptación demostrada    | Aprendizaje autónomo y mejora constante   |
-
-
-
-### Trabajo individual
-
-La evaluación para los estudiantes que eligieron la calificación discreta se realizará usando la siguiente rúbrica:
-
-
-
-| Criterios                                                | Insuficiente (0-4)                                          | Mejorable (5-6)                                       | Satisfactorio (7-8)                                     | Excelente (9-10)                                          |
-| -------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
-| *Calidad de la bibliografía y documentación recopilada*  | Fuentes escasas o irrelevantes, documentación desorganizada | Fuentes básicas pero limitadas, documentación parcial | Fuentes relevantes y diversas, documentación organizada | Fuentes exhaustivas y actualizadas, documentación ejempla |
-| *Uso del asistente IA personalizado*                     | No se usó o fue irrelevante                                 | Uso básico sin incorporar bibliografía                | Uso adecuado con bibliografía básica                    | Uso innovador y crítico, esencial para el análisis        |
-| *Calidad de la caracterización del reto asignado*        | Caracterización superficial/errónea                         | Identificación parcial del reto                       | Caracterización adecuada del reto                       | Análisis multidimensional y profundo                      |
-| *Integración socioecosistémica de propuestas realizadas* | Soluciones lineales sin visión sistémica                    | Integración parcial de elementos clave                | Integración coherente de componentes                    | Propuestas innovadoras con integración sistémica          |
-| *Calidad de la presentación realizada*                   | Presentación confusa/desorganizada                          | Estructura básica pero comprensible                   | Presentación clara con recursos visuales                | Presentación profesional y altamente efectiva             |
-
-
-
-
+EN CONSTRUCCIÓN
 
 
 ****
