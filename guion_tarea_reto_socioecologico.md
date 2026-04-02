@@ -7,7 +7,7 @@
 > + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea que dura todo el cuatrimestre.
 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/portada.png)
 
 ---
 
@@ -76,7 +76,7 @@ El método que seguiremos en clase se plantea como una metodología que difiere 
 
 La siguiente imagen muestra de manera resumida las distintas fases del método que proponemos para abordar retos socioecológicos complejos:
 
-![infografia_metodo](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/portada.jpg)
+![infografia_metodo](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/infografia_metodo.png)
 
 
 
