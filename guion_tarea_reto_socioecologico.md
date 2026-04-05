@@ -81,7 +81,7 @@ La siguiente imagen muestra de manera resumida las distintas fases del método q
 
 
 
-### 3.1 [Fase 1: reconocimiento y contextualización del problema como complejo](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2025_2026/guion_reconocimiento_reto.html)
+### 3.1. [Fase 1: Reconocimiento y contextualización del problema como complejo](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2025_2026/guion_reconocimiento_reto.html)
 
 La primera fase consiste en reconocer de manera explícita que el reto a abordar es un problema complejo y no meramente complicado. Esta distinción conceptual es crucial: un problema complicado puede ser muy difícil, pero resulta abordable mediante la acumulación de conocimiento experto y la aplicación secuencial de reglas estables (como ocurre en el ajedrez), mientras que un problema complejo —análogamente a lo que sucede en juegos con interacción estratégica e incertidumbre, como el mus o el póker— involucra actores con información parcial, comportamientos estratégicos, bucles de retroalimentación y contextos cambiantes.
 
@@ -93,7 +93,7 @@ El error metodológico frecuente consiste en tratar problemas complejos como si 
 
 
 
-### 3.2 Fase 2: identificación de actores y de sus necesidades-objetivos
+### 3.2. Fase 2: identificación de actores y de sus necesidades-objetivos
 
 La segunda fase se centra en la identificación sistemática de los actores implicados en el reto socioecológico y en la explicitación de sus objetivos, necesidades e intereses. Se parte de la premisa de que “todo va de personas que tienen intereses”, entendiendo por interés no solo el beneficio económico o material, sino también las dimensiones identitarias, culturales y relacionales que estructuran la pertenencia de los actores a un territorio o actividad.
 
@@ -104,7 +104,8 @@ Un aspecto esencial de esta fase es distinguir entre el discurso externo de los 
 La metodología propone, por tanto, registrar para cada actor tanto su posición pública como su posición íntima o subyacente, con el fin de comprender mejor sus verdaderas necesidades y los márgenes de negociación posibles. Esta aproximación se apoya indirectamente en principios de comunicación no violenta y en la idea de que la escalada retórica conduce a dinámicas de confrontación simétrica (cada actor grita más para ser escuchado), lo que reduce la capacidad de construir soluciones cooperativas.
 
 
-### 3.3 Fase 3: Descomposición funcional del problema en subproblemas manejables
+
+### 3.3. Fase 3: Descomposición funcional del problema en subproblemas manejables
 
 Reconocida la complejidad del reto y mapeados los actores principales, la tercera fase propone descomponer el problema complejo en un conjunto de subproblemas o componentes funcionales más abordables, sin perder la conciencia de que todos forman parte de un sistema mayor. La formulación directa de preguntas globales del tipo “¿cómo hacer que la dehesa sea sostenible?” o “¿cómo garantizar la felicidad de una persona?” resulta excesivamente amplia y poco operativa para el diseño de intervenciones concretas.
 
@@ -115,7 +116,8 @@ La analogía con la “felicidad” humana ayuda a clarificar la lógica: en lug
 La descomposición, sin embargo, no debe conducir a una pérdida de la perspectiva sistémica. Los subproblemas no se consideran entidades aisladas, sino componentes de un problema mayor que mantienen entre sí múltiples interdependencias; por tanto, la descomposición es un recurso cognitivo y operativo para trabajar, no una fragmentación ontológica del sistema. La metodología insiste en mantener explícitamente la referencia al problema complejo original para evitar propuestas sectoriales que ignoren efectos cruzados.
 
 
-### 3.4 Fase 4: Análisis de interdependencias y puntos de apalancamiento
+
+### 3.4. Fase 4: Análisis de interdependencias y puntos de apalancamiento
 
 La cuarta fase requiere reconstruir de manera explícita el entramado de interdependencias entre actores, subproblemas y componentes ecológicos, mediante la elaboración de un “mapa del socioecosistema”. Este mapa integra en una representación gráfica los actores identificados en la fase 2, los subproblemas de la fase 3 y otros elementos relevantes del sistema, permitiendo visualizar las conexiones, flujos de influencia y bucles de retroalimentación (positivos y negativos) que configuran el comportamiento del sistema.
 
@@ -123,7 +125,9 @@ Sobre este mapa se identifican puntos críticos del sistema, es decir, lugares o
 
 En el ámbito socioecológico, la identificación de puntos de apalancamiento resulta más difícil por la complejidad estructural y la presencia de múltiples escalas, pero es precisamente una de las tareas centrales de la fase de interdependencias. Para ilustrar el papel de las relaciones sociales en el apalancamiento, se propone el caso hipotético de una dehesa donde existen tres actores: un grupo de ecologistas residentes sin propiedad de la tierra, un gran propietario ausentista que vive lejos del territorio, y la maestra de la escuela local, que mantiene relación cotidiana con las familias cuyos medios de vida dependen del sistema (extracción de corcho, ganadería, etc.). En este ejemplo, aunque el propietario ostente control formal sobre la tierra y los ecologistas dispongan de capital simbólico o capacidad de movilización, la maestra constituye un punto de apalancamiento destacado por la densidad y diversidad de sus relaciones sociales. Su posición le permite influir en percepciones, transmitir información, articular preocupaciones y conectar actores que de otro modo permanecerían desconectados. Se extrae de aquí una generalización importante: en muchos sistemas complejos, los puntos de apalancamiento se asocian más a la estructura de relaciones (número, calidad y posición en la red) que a atributos individuales aislados como la riqueza, el poder formal o el conocimiento técnico.
 
-### 3.5 Fase 5: Análisis del contexto legislativo y de gestión
+
+
+### 3.5. Fase 5: Análisis del contexto legislativo y de gestión
 
 La quinta fase se orienta a delimitar el marco legislativo y de gestión que condiciona la acción sobre el sistema socioecológico. Las normas jurídicas operan como un “corsé de contexto” que define qué intervenciones están permitidas, cuáles están prohibidas y cuáles requerirían modificaciones legales explícitas. Conocer las leyes, reglamentos y figuras de protección aplicables al territorio y al problema específico es indispensable para determinar el margen real de maniobra.
 
@@ -134,7 +138,8 @@ Se explicita que la función de esta fase es doble: por un lado, identificar las
 En la formulación oral original se sugiere que aquello que no figura en la ley no puede llevarse a cabo, lo que subraya el carácter acotador de la normativa.
 
 
-### 3.6 Fase 6: Identificación de propiedades dinámicas y ciclos adaptativos
+
+### 3.6. Fase 6: Identificación de propiedades dinámicas y ciclos adaptativos
 
 La sexta fase introduce explícitamente la dimensión temporal en el análisis del socioecosistema, dinamizando el mapa de interdependencias construido previamente. El objetivo es comprender cómo ha evolucionado el sistema en el pasado, cómo esa trayectoria condiciona su estado presente y qué implicaciones tiene para las intervenciones futuras. Se trata de reconocer que los sistemas complejos exhiben memoria y dependencia de la trayectoria: su comportamiento actual no puede explicarse solo por las condiciones contemporáneas, sino también por eventos y presiones históricas.
 
@@ -145,7 +150,9 @@ La dehesa constituye otro ejemplo ilustrativo de este tipo de dinámicas. Muchos
 Dado que los tiempos característicos de los sistemas naturales (por ejemplo, el crecimiento de un árbol hasta la madurez) son largos en comparación con los horizontes políticos o de gestión habituales, el análisis dinámico obliga a ampliar el marco temporal de la planificación. Para integrar esta dimensión temporal y de escala, se propone utilizar el marco conceptual de la panarquía, que describe sistemas acoplados en múltiples niveles jerárquicos, cada uno de los cuales atraviesa ciclos adaptativos de explotación, conservación, liberación y reorganización. Trabajar con el concepto de panarquía permite explorar cómo perturbaciones o decisiones en una escala (por ejemplo, local) se relacionan con procesos que operan a otras escalas (regional, nacional, global) y cómo las oportunidades de transformación emergen en momentos concretos de los ciclos adaptativos.
 
 
-### 3.7 Fase 7: Desarrollo y evaluación de escenarios plausibles
+
+### 3.7. Fase 7: Desarrollo y evaluación de escenarios plausibles
+
 La séptima fase introduce la construcción de “escenarios” como objeto analítico central para pensar el futuro del socioecosistema. Un escenario se define como un conjunto coherente de combinaciones de variables —ecológicas, sociales, económicas, institucionales— que describen una situación futura posible del sistema. No se trata de predicciones únicas, sino de narrativas plausibles que exploran distintas trayectorias futuras, condicionadas por decisiones y fuerzas motrices específicas.
 
 El concepto se ilustra inicialmente con un ejemplo individual: imaginarse dentro de cinco años como una persona más sana, en buena forma física, sin hábitos nocivos y quizá desarrollando una tesis doctoral. Construir este escenario exige identificar qué atributos del “sistema persona” habrían cambiado (peso corporal, hábitos de consumo, nivel de actividad física, competencias académicas) y cuáles serían las fuerzas motrices de esos cambios (volumen y tipo de entrenamiento semanal, dieta, dedicación al estudio, etc.). La misma lógica se traslada al análisis de sistemas socioecológicos.
@@ -155,7 +162,9 @@ En el caso de los pinares de repoblación, por ejemplo, puede plantearse un esce
 El desarrollo de escenarios requiere explicitar, para cada uno, los cambios en los principales atributos del sistema y las fuerzas que los impulsan. Además, la plausibilidad de los escenarios debe evaluarse a la luz del funcionamiento conocido del sistema (según lo analizado en fases previas) y del contexto legal e institucional identificado en la fase 5. De este modo, los escenarios no se convierten en ejercicios de imaginación desligados de la realidad, sino en herramientas para explorar futuros posibles coherentes con la dinámica del sistema y sus restricciones normativas.
 
 
-### 3.8 Fase 8: Creación de propuestas para alcanzar futuros deseables
+
+### 3.8. Fase 8: Creación de propuestas para alcanzar futuros deseables
+
 La octava y última fase se centra en el diseño de propuestas de actuación orientadas a hacer transitable el camino desde el estado actual del sistema hasta uno o varios de los escenarios futuros considerados deseables. Estas propuestas deben estar informadas por todo el trabajo previo: la comprensión de la complejidad del problema, el mapa de actores y sus intereses, la descomposición funcional, las interdependencias y puntos de apalancamiento, el contexto legislativo y las dinámicas temporales del sistema.
 
 Una condición metodológica fundamental es que las propuestas eviten el sesgo sectorial y simplificador ejemplificado por respuestas del tipo “la conservación del lince prevalece siempre sobre la caza”. En lugar de soluciones unidimensionales, se buscan propuestas sistémicas que, aun pudiendo ser polémicas o contraintuitivas, estén diseñadas para satisfacer de forma razonable las necesidades de varios colectivos y para actuar sobre puntos de apalancamiento identificados. Un ejemplo deliberadamente provocador es la idea de considerar, en un contexto de ecosistema muy saludable, la caza científicamente regulada del lince como herramienta de gestión que combine objetivos de conservación con intereses cinegéticos. Se subraya que una propuesta de este tipo solo podría emerger de un proceso participativo profundo, estaría sometida a estrictos condicionantes éticos y legales y requeriría, además, reformas normativas sustantivas.
@@ -165,11 +174,15 @@ Otro tipo de propuesta sistémica podría consistir en redistribuir la toma de d
 En todos los casos, el objetivo es que las propuestas finales reflejen los matices, sutilezas y complejidades identificadas a lo largo del proceso CPS, en lugar de reducir el problema a un único eje de conflicto. La metodología reconoce explícitamente que no ofrece una secuencia algorítmica de pasos con garantía de éxito —como en el caso de la reparación de una fractura ósea siguiendo un protocolo médico bien establecido—, sino un marco de trabajo difuso, iterativo y adaptativo cuya utilidad reside en mejorar la calidad sistémica del diagnóstico y de las intervenciones.
 
 
+
 ## 4 Abordaje del reto en clase
+
 El ejercicio planteado en este guión se abordará durante toda la asignatura siguiendo una aproximación de menos a más intensidad. Las primeras semanas del cuatrimestre se dedicarán a estudiar conceptos teóricos potencialmente útiles para abordar el reto. Hacia la mitad de la asignatura dedicaremos todas las sesiones teóricas a trabajar en el reto asignado. La salida de campo será el punto de inflexión en esta tendencia que traslada el foco desde lo teórico hasta lo aplicado dentro de la asignatura. Además, también se producirá un cambio en el protagonismo de las clases. En la primera mitad de la asignatura será el profesor el que realice clases expositivas. En la parte final serán los estudiantes los que se "adueñen" de su trabajo y lo aborden de manera colaborativa en clase. Irán ganando autonomía progresivamente para trabajar en el reto asignado.
 
 
+
 ## 5 Forma de entrega
+
 Los resultados obtenidos por los distintos grupos de trabajo se expondrán en clase en el calendario ya establecido. Para esa exposición, los estudiantes podrán usar el método que elijan. Hay libertad total en este sentido. Se puede usar una presentación, una interpretación teatralizada, lo que decidáis. Tras la exposición oral habrá un turno de preguntas tanto del profesor como del resto de estudiantes.
 
 Además de la exposición anterior, el grupo deberá de entregar un texto que describa los avances realizados en cada una de las fases descritas anteriormente. Ese texto debe de tener las siguientes características y contenidos:
