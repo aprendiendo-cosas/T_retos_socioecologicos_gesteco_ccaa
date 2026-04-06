@@ -74,6 +74,8 @@ La disciplina de Complex Problem Solving (CPS) tiene orígenes teóricos en las 
 
 El método que seguiremos en clase se plantea como una metodología que difiere de los procedimientos universitarios tradicionales, en los que se proporcionan guiones detallados (“abre R, carga el paquete X, ejecuta el script Y”) y se espera que el alumnado aplique de manera casi mecánica una secuencia de pasos. En el caso de CPS, la “receta” no está predeterminada, sino que debe ser co-construida, lo que requiere un cambio profundo de mentalidad respecto a la concepción habitual de problema técnico y solución estándar, y limita su aplicabilidad a determinados tipos de retos (por ejemplo, no es adecuada para el diseño de infraestructuras ingenieriles con especificaciones cerradas).
 
+Por último, es importante indicar que el método propuesto es, además de sencuencial, iterativo. Esto quiere decir que se "recorre" varias veces. No solo vamos avanzando por las fases en un orden concreto. Además suele ocurrir que cuando estamos trabajando en una fase salen a relucir cuestiones que mejoran lo ya realizado en una fase anterior. A esto es a lo que se refiere el término iteración. Por ejemplo, cuando estemos descomponiendo el problema complejo en otros más abordables, es posible que surgan actores sociales que no identificamos en su momento. Cuando eso ocurra, habrá que volver atrás e incorporar estos nuevos hallazgos a la fase en cuestión.
+
 La siguiente imagen muestra de manera resumida las distintas fases del método que proponemos para abordar retos socioecológicos complejos:
 
 ![infografia_metodo](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/infografia_metodo.png)
@@ -105,7 +107,7 @@ La metodología propone, por tanto, registrar para cada actor tanto su posición
 
 
 
-### 3.3. Fase 3: Descomposición funcional del problema en subproblemas manejables
+### 3.3. Fase 3: [Descomposición funcional del problema en subproblemas manejables](https://rawcdn.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/2025_2026/guion_descomposicion_reto.html)
 
 Reconocida la complejidad del reto y mapeados los actores principales, la tercera fase propone descomponer el problema complejo en un conjunto de subproblemas o componentes funcionales más abordables, sin perder la conciencia de que todos forman parte de un sistema mayor. La formulación directa de preguntas globales del tipo “¿cómo hacer que la dehesa sea sostenible?” o “¿cómo garantizar la felicidad de una persona?” resulta excesivamente amplia y poco operativa para el diseño de intervenciones concretas.
 
