@@ -93,7 +93,7 @@ El error metodológico frecuente consiste en tratar problemas complejos como si 
 
 
 
-### 3.2. Fase 2: identificación de actores y de sus necesidades-objetivos
+### 3.2. [Fase 2: Identificación de actores y de sus necesidades-objetivos](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2025_2026/guion_actores_reto.html)
 
 La segunda fase se centra en la identificación sistemática de los actores implicados en el reto socioecológico y en la explicitación de sus objetivos, necesidades e intereses. Se parte de la premisa de que “todo va de personas que tienen intereses”, entendiendo por interés no solo el beneficio económico o material, sino también las dimensiones identitarias, culturales y relacionales que estructuran la pertenencia de los actores a un territorio o actividad.
 
