@@ -1,6 +1,6 @@
 #  Instrucciones para el abordaje de retos en sistemas socioecológicos
 
-> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span>
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span>
 > + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
@@ -83,7 +83,7 @@ La siguiente imagen muestra de manera resumida las distintas fases del método q
 
 
 
-### 3.1. [Fase 1: Reconocimiento y contextualización del problema como complejo](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2025_2026/guion_reconocimiento_reto.html)
+### 3.1. Fase I: [Reconocimiento y contextualización del problema como complejo](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2025_2026/guion_reconocimiento_reto.html)
 
 La primera fase consiste en reconocer de manera explícita que el reto a abordar es un problema complejo y no meramente complicado. Esta distinción conceptual es crucial: un problema complicado puede ser muy difícil, pero resulta abordable mediante la acumulación de conocimiento experto y la aplicación secuencial de reglas estables (como ocurre en el ajedrez), mientras que un problema complejo —análogamente a lo que sucede en juegos con interacción estratégica e incertidumbre, como el mus o el póker— involucra actores con información parcial, comportamientos estratégicos, bucles de retroalimentación y contextos cambiantes.
 
@@ -95,7 +95,7 @@ El error metodológico frecuente consiste en tratar problemas complejos como si 
 
 
 
-### 3.2. [Fase 2: Identificación de actores y de sus necesidades-objetivos](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2025_2026/guion_actores_reto.html)
+### 3.2. Fase II: [Identificación de actores y de sus necesidades-objetivos](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2025_2026/guion_actores_reto.html)
 
 La segunda fase se centra en la identificación sistemática de los actores implicados en el reto socioecológico y en la explicitación de sus objetivos, necesidades e intereses. Se parte de la premisa de que “todo va de personas que tienen intereses”, entendiendo por interés no solo el beneficio económico o material, sino también las dimensiones identitarias, culturales y relacionales que estructuran la pertenencia de los actores a un territorio o actividad.
 
@@ -107,7 +107,7 @@ La metodología propone, por tanto, registrar para cada actor tanto su posición
 
 
 
-### 3.3. Fase 3: [Descomposición funcional del problema en subproblemas manejables](https://rawcdn.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/2025_2026/guion_descomposicion_reto.html)
+### 3.3. Fase III: [Descomposición funcional del problema en subproblemas manejables](https://rawcdn.githack.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/2025_2026/guion_descomposicion_reto.html)
 
 Reconocida la complejidad del reto y mapeados los actores principales, la tercera fase propone descomponer el problema complejo en un conjunto de subproblemas o componentes funcionales más abordables, sin perder la conciencia de que todos forman parte de un sistema mayor. La formulación directa de preguntas globales del tipo “¿cómo hacer que la dehesa sea sostenible?” o “¿cómo garantizar la felicidad de una persona?” resulta excesivamente amplia y poco operativa para el diseño de intervenciones concretas.
 
@@ -119,7 +119,7 @@ La descomposición, sin embargo, no debe conducir a una pérdida de la perspecti
 
 
 
-### 3.4. Fase 4: Análisis de interdependencias y puntos de apalancamiento
+### 3.4. Fase IV: [Análisis de interdependencias y puntos de apalancamiento](https://aprendiendo-cosas.github.io/P_interdependencias_reto_gesteco_ccaa/guion_interdependencias_reto.html)
 
 La cuarta fase requiere reconstruir de manera explícita el entramado de interdependencias entre actores, subproblemas y componentes ecológicos, mediante la elaboración de un “mapa del socioecosistema”. Este mapa integra en una representación gráfica los actores identificados en la fase 2, los subproblemas de la fase 3 y otros elementos relevantes del sistema, permitiendo visualizar las conexiones, flujos de influencia y bucles de retroalimentación (positivos y negativos) que configuran el comportamiento del sistema.
 
@@ -129,7 +129,7 @@ En el ámbito socioecológico, la identificación de puntos de apalancamiento re
 
 
 
-### 3.5. Fase 5: Análisis del contexto legislativo y de gestión
+### 3.5. Fase V: [Análisis del contexto legislativo y de gestión](https://aprendiendo-cosas.github.io/P_legislacion_reto_gesteco_ccaa/guion_legislacion_reto.html)
 
 La quinta fase se orienta a delimitar el marco legislativo y de gestión que condiciona la acción sobre el sistema socioecológico. Las normas jurídicas operan como un “corsé de contexto” que define qué intervenciones están permitidas, cuáles están prohibidas y cuáles requerirían modificaciones legales explícitas. Conocer las leyes, reglamentos y figuras de protección aplicables al territorio y al problema específico es indispensable para determinar el margen real de maniobra.
 
@@ -141,7 +141,7 @@ En la formulación oral original se sugiere que aquello que no figura en la ley 
 
 
 
-### 3.6. Fase 6: Identificación de propiedades dinámicas y ciclos adaptativos
+### 3.6. Fase VI: [Entender el pasado para tratar de predecir el futuro](https://aprendiendo-cosas.github.io/P_historia_reto_gesteco_ccaa/guion_historia_reto.html)
 
 La sexta fase introduce explícitamente la dimensión temporal en el análisis del socioecosistema, dinamizando el mapa de interdependencias construido previamente. El objetivo es comprender cómo ha evolucionado el sistema en el pasado, cómo esa trayectoria condiciona su estado presente y qué implicaciones tiene para las intervenciones futuras. Se trata de reconocer que los sistemas complejos exhiben memoria y dependencia de la trayectoria: su comportamiento actual no puede explicarse solo por las condiciones contemporáneas, sino también por eventos y presiones históricas.
 
@@ -153,11 +153,11 @@ Dado que los tiempos característicos de los sistemas naturales (por ejemplo, el
 
 
 
-### 3.7. Fase 7: Desarrollo y evaluación de escenarios plausibles
+### 3.7. Fase VII: [Desarrollo y evaluación de escenarios plausibles](https://aprendiendo-cosas.github.io/P_escenarios_reto_gesteco_ccaa/guion_escenarios_reto.html)
 
 La séptima fase introduce la construcción de “escenarios” como objeto analítico central para pensar el futuro del socioecosistema. Un escenario se define como un conjunto coherente de combinaciones de variables —ecológicas, sociales, económicas, institucionales— que describen una situación futura posible del sistema. No se trata de predicciones únicas, sino de narrativas plausibles que exploran distintas trayectorias futuras, condicionadas por decisiones y fuerzas motrices específicas.
 
-El concepto se ilustra inicialmente con un ejemplo individual: imaginarse dentro de cinco años como una persona más sana, en buena forma física, sin hábitos nocivos y quizá desarrollando una tesis doctoral. Construir este escenario exige identificar qué atributos del “sistema persona” habrían cambiado (peso corporal, hábitos de consumo, nivel de actividad física, competencias académicas) y cuáles serían las fuerzas motrices de esos cambios (volumen y tipo de entrenamiento semanal, dieta, dedicación al estudio, etc.). La misma lógica se traslada al análisis de sistemas socioecológicos.
+El concepto se lustra inicialmente con un ejemplo individual: imaginarse dentro de cinco años como una persona más sana, en buena forma física, sin hábitos nocivos y quizá desarrollando una tesis doctoral. Construir este escenario exige identificar qué atributos del “sistema persona” habrían cambiado (peso corporal, hábitos de consumo, nivel de actividad física, competencias académicas) y cuáles serían las fuerzas motrices de esos cambios (volumen y tipo de entrenamiento semanal, dieta, dedicación al estudio, etc.). La misma lógica se traslada al análisis de sistemas socioecológicos.
 
 En el caso de los pinares de repoblación, por ejemplo, puede plantearse un escenario futuro en el que el riesgo de incendio forestal sea muy bajo, resultado de una serie de actuaciones de gestión (claras, manejo de combustible, diversificación estructural, mejora de accesos, etc.) que configuran un paisaje distinto del actual. En contraste, puede imaginarse un escenario alternativo de carácter catastrófico, en el que el cambio climático se exacerba, no se adoptan medidas de gestión adecuadas y el resultado observable es un “bosque quemado” recurrente.
 
@@ -165,7 +165,7 @@ El desarrollo de escenarios requiere explicitar, para cada uno, los cambios en l
 
 
 
-### 3.8. Fase 8: Creación de propuestas para alcanzar futuros deseables
+### 3.8. Fase VIII: [Creación de propuestas para alcanzar futuros deseables](https://aprendiendo-cosas.github.io/P_propuestas_reto_gesteco_ccaa/guion_propuestas_reto.html)
 
 La octava y última fase se centra en el diseño de propuestas de actuación orientadas a hacer transitable el camino desde el estado actual del sistema hasta uno o varios de los escenarios futuros considerados deseables. Estas propuestas deben estar informadas por todo el trabajo previo: la comprensión de la complejidad del problema, el mapa de actores y sus intereses, la descomposición funcional, las interdependencias y puntos de apalancamiento, el contexto legislativo y las dinámicas temporales del sistema.
 
@@ -187,14 +187,50 @@ El ejercicio planteado en este guión se abordará durante toda la asignatura si
 
 Los resultados obtenidos por los distintos grupos de trabajo se expondrán en clase en el calendario ya establecido. Para esa exposición, los estudiantes podrán usar el método que elijan. Hay libertad total en este sentido. Se puede usar una presentación, una interpretación teatralizada, lo que decidáis. Tras la exposición oral habrá un turno de preguntas tanto del profesor como del resto de estudiantes.
 
-Además de la exposición anterior, el grupo deberá de entregar un texto que describa los avances realizados en cada una de las fases descritas anteriormente. Ese texto debe de tener las siguientes características y contenidos:
+Además de la exposición anterior, el grupo deberá de entregar un texto que describa los avances realizados en cada una de las fases descritas anteriormente. Los contenidos de ese documento serán los que se describen en los guiones de cada una de las fases. Además, el documento debe de tener las siguientes características y contenidos:
 + No es necesario que tenga una maquetación cerrada. Quiero identificar el trabajo que habéis hecho, con sus dudas y problemas. No necesito un informe profesional.
 + Debéis de incluir enlaces a las conversaciones que hayáis tenido con IAs, así como referencias a bibliografía relevante.
+
+La entrega del material se realizará a través de los grupos de Teams. La fecha límite de entrega es el 10 de junio a las 23:59. Necesito un par de días para procesar vuestras entregas antes de la exposición.
+
+
 
 
 ## 6 Criterios de calificación (rúbrica)
 
-EN CONSTRUCCIÓN
+Esta actividad tiene una componente grupal y otra individual. Se explican a continuación:
+
+### 6.1 Calificación grupal
+
+La calificación grupal se realizará atendiendo a la siguiente rúbrica. En ella se valora el trabajo realizado durante la asignatura. Se basará en el texto a entregar que se describe en el apartado anterior. Todos los miembros del grupo tendrán la misma nota en este apartado. Esta componente de la calificación pesa un 60% de la nota total de la actividad.
+
+| **Criterio**                                    | **Insuficiente (0-4)**                                       | **Mejorable (5-6)**                                    | **Satisfactorio (7-8)**                                  | **Excelente (9-10)**                                        |
+| ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ | -------------------------------------------------------- | :---------------------------------------------------------- |
+| **Calidad de la bibliografía y documentación**  | Fuentes escasas o irrelevantes, documentación desorganizada. | Fuentes básicas pero limitadas, documentación parcial. | Fuentes relevantes y diversas, documentación organizada. | Fuentes exhaustivas y actualizadas, documentación ejemplar. |
+| **Registro y documentación del proceso**        | Registro ausente o muy incompleto.                           | Registro básico con lagunas importantes.               | Registro completo y bien organizado.                     | Registro detallado con reflexiones críticas.                |
+| **Uso del asistente IA personalizado**          | No se usó o fue irrelevante.                                 | Uso básico sin incorporar bibliografía.                | Uso adecuado con bibliografía básica.                    | Uso innovador y crítico, esencial para el análisis.         |
+| **Calidad de la caracterización del reto**      | Caracterización superficial/errónea.                         | Identificación parcial del reto.                       | Caracterización adecuada del reto.                       | Análisis multidimensional y profundo.                       |
+| **Integración socioecosistémica de propuestas** | Soluciones lineales sin visión sistémica.                    | Integración parcial de elementos clave.                | Integración coherente de componentes.                    | Propuestas innovadoras con integración sistémica.           |
+| **Calidad de la presentación realizada**        | Presentación confusa/desorganizada.                          | Estructura básica pero comprensible.                   | Presentación clara con recursos visuales.                | Presentación profesional y altamente efectiva.              |
+
+
+### 6.2 Calificación individual
+Esta dimensión se evaluará durante el día de la presentación. Ese día usaré la siguiente rúbrica para calificar el desempeño de cada estudiante:
+
+
+
+| **Criterio**                              | **Insuficiente (0-4)**                                       | **Mejorable (5-6)**                                          | **Satisfactorio (7-8)**                                      | **Excelente (9-10)**                                         |
+| ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Precisión y Profundidad del Contenido** | Comete errores conceptuales graves o la información es irrelevante. | Describe conceptos de forma superficial; falta precisión técnica. | Explica los conceptos con exactitud y aporta detalles relevantes. | Demuestra dominio avanzado; relaciona conceptos con rigor y síntesis. |
+| **Estructura y Coherencia Discursiva**    | El discurso es inconexo; pierde el hilo al ser interpelado.  | Organización básica, pero con transiciones abruptas o confusas. | Discurso estructurado con inicio, desarrollo y cierre claro. | Organización lógica impecable; facilita la comprensión del receptor. |
+| **Competencia Vocal (Dicción y Fluidez)** | Volumen inaudible, muletillas constantes o ritmo monótono.   | Pronunciación clara pero con poco uso de matices o énfasis.  | Uso adecuado de volumen, ritmo y entonación para enfatizar.  | Fluidez profesional; manejo magistral de pausas y énfasis retórico. |
+| **Comunicación No Verbal**                | Evita el contacto visual; postura cerrada o movimientos distractores. | Contacto visual limitado; postura rígida pero no distractora. | Mantiene contacto visual y usa gestos que apoyan el mensaje. | Presencia escénica; lenguaje corporal que refuerza la credibilidad. |
+| **Adaptación y Respuesta al Contexto**    | Incapaz de retomar el tema tras la indicación del profesor.  | Tarda en reaccionar o requiere que se le repita la pregunta. | Responde con prontitud y retoma el flujo de la explicación.  | Agilidad mental; integra la pregunta del profesor en su discurso. |
+
+
+
+
+
 
 
 ****
